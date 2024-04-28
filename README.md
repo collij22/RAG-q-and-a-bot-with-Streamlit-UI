@@ -1,1 +1,1 @@
-# zRAG-q-and-a-bot-with-Streamlit-UI
+# RAG-q-and-a-bot-with-Streamlit-UI
